@@ -12,11 +12,11 @@ Folder structure:
 
 
  WEB-INF
-       `-static
-              |-html
-                    `-home.html
-              |-css
-              `-img
+        `-static
+	     |-html
+	           `-home.html
+	     |-css
+	    `-img
 
 			  
 Controller method:
