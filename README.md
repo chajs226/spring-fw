@@ -3,6 +3,7 @@ spring framework 기본 셋팅
 
 
 브라우저에 주소를 입력하면 html 페이지에 연결되도록 하고 싶다.
+
 WARN : org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI 에러
 ->
 Folder structure:
