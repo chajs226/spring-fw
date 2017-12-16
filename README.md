@@ -13,6 +13,8 @@ Folder structure:
                     `-home.html
               |-css
               `-img
+
+			  
 Controller method:
 
  @RequestMapping(value = "/home")
@@ -20,6 +22,8 @@ Controller method:
       System.out.println("lolololololol");
       return "static/html/home";
  }
+
+ 
 Spring config:
 
  <resources mapping="/static/**" location="/WEB-INF/static/" />
